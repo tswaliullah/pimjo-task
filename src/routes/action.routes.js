@@ -1,11 +1,13 @@
 import express from 'express';
 import { ActionController } from '../controllers/action.controller.js';
+import audinLogger from '../middlewares/auditLogging.js';
 
 const router = express.Router();
 
-router.post("/action", ActionController.CreateAction);
+router.post("/action", 
+    audinLogger,
+    ActionController.CreateAction);
 
 
-console.log("routes loaded");
 
 export const ActionRoutes = router;
