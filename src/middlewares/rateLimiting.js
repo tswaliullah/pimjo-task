@@ -36,4 +36,3 @@ const rateLimit = (req, res) => {
 };
 
 export default rateLimit;
-// boundary brust problem
