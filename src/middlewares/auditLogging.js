@@ -20,9 +20,7 @@ const audinLogger = (req, res, next) => {
     status,
   };
 
-  const data = fileLogger(logEntry);
-
-  console.log("audit log data:", data);
+  fileLogger(logEntry);
 
   next();
 };

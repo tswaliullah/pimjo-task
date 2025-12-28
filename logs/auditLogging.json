@@ -1,0 +1,11 @@
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:27:59.673Z","status":"allowed"}
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:01.481Z","status":"allowed"}
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:02.888Z","status":"blocked"}
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:17.213Z","status":"blocked"}
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:19.686Z","status":"blocked"}
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:20.878Z","status":"blocked"}
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:21.820Z","status":"blocked"}
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:22.739Z","status":"blocked"}
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:23.747Z","status":"blocked"}
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:24.671Z","status":"blocked"}
+{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:44.422Z","status":"blocked"}
