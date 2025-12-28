@@ -1,4 +1,3 @@
-import rateLimit from "../middlewares/rateLimiting.js";
 
 
 const CreateAction = () => {

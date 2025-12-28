@@ -1,11 +1,52 @@
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:27:59.673Z","status":"allowed"}
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:01.481Z","status":"allowed"}
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:02.888Z","status":"blocked"}
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:17.213Z","status":"blocked"}
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:19.686Z","status":"blocked"}
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:20.878Z","status":"blocked"}
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:21.820Z","status":"blocked"}
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:22.739Z","status":"blocked"}
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:23.747Z","status":"blocked"}
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:24.671Z","status":"blocked"}
-{"ip_address":"::1","endpoint":"POST /api/action","timestamp":"2025-12-28T16:28:44.422Z","status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:19.592Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:23.408Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:24.689Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:26.145Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:27.445Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:28.593Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:29.713Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:30.900Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:32.074Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:33.238Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:36.179Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:37.696Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:38.834Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:39.835Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:40.831Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:42.244Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:43.277Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:44.429Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:45.548Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:46.647Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:47.713Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:48.834Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:49.981Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:51.148Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:52.321Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:53.460Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:54.667Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:55.861Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:57.057Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:58.313Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:40:59.557Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:01.622Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:02.776Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:03.962Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:05.105Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:06.292Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:07.403Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:08.518Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:09.659Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:10.712Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:11.924Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:12.987Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:14.039Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:15.012Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:16.047Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:17.086Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:18.114Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:19.419Z","Request status":"blocked"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:20.421Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:21.510Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:22.810Z","Request status":"allowed"}
+{"IP address":"::1","Endpoint name":"POST /api/action","Timestamp":"2025-12-28T16:41:49.406Z","Request status":"allowed"}

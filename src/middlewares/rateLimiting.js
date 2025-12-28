@@ -1,5 +1,5 @@
 const rateLimitWindow = 60 * 1000;
-const maxRequests = 2;
+const maxRequests = 10;
 const ipRequests = {};
 
 const rateLimit = (req, res) => {

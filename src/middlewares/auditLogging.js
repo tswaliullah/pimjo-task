@@ -14,10 +14,10 @@ const audinLogger = (req, res, next) => {
   }
 
   const logEntry = {
-    ip_address: ip,
-    endpoint: `${method} ${path}`,
-    timestamp: new Date().toISOString(),
-    status,
+    "IP address": ip,
+    'Endpoint name': `${method} ${path}`,
+    Timestamp: new Date().toISOString(),
+    "Request status": status,
   };
 
   fileLogger(logEntry);
