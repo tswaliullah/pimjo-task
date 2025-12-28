@@ -1,14 +1,19 @@
+import fileLogger from "../utils/fileLogger.js";
+
 const audinLogger = (req, res, next) => {
   const ip = req.ip;
   const method = req.method;
   const path = req.originalUrl;
-  const start = Date.now();
 
-  console.log(`
-        IP address: ${ip}
-        Endpoint name: ${method} ${path}
-        Timestamp: ${new Date()}
-    `);
+  const logEntry = {
+    ipAddress: ip,
+    endpoint: `${method} ${path}`,
+    timestamp: new Date().toISOString(),
+  };
+
+  const data = fileLogger(logEntry);
+
+  console.log("audit log data:", data);
 
   next();
 };
